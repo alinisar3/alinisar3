@@ -1,12 +1,6 @@
 # Hi, I'm Ali Nisar 👋 
 ### Full-Stack Software Engineer | MERN Stack Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinisar3&show_icons=true&theme=tokyonight" alt="Ali's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinisar3&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
 ---
 
 ### 🚀 Professional Summary
