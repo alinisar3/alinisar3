@@ -1,9 +1,13 @@
 # Hi, I'm Ali Nisar 👋 
 ### Full-Stack Software Engineer | MERN Stack Developer
 
+---
+
+### 📊 Engineering Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinisar3&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinisar3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alinisar3&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" alt="Ali's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinisar3&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
